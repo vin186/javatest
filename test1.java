@@ -1,5 +1,5 @@
 public class javatest {
-public vin200;
+public vin500;
 private tester;
 }
 class test1 {
