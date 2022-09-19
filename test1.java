@@ -1,11 +1,4 @@
-public class javatest {
-public vin500;
-private tester;
-}
-class test1 {
-  private chock;
-}
-class test2
-{
-  private car;
+public class test1 {
+public Integer vin500;
+private String tester;
 }
