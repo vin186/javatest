@@ -1,6 +1,6 @@
-public class javatest {
-public vin;
-private tester;
+public class javatest100 {
+public vin100;
+private tester100;
 }
 class test1 {
   private chock;
